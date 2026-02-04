@@ -7,6 +7,14 @@ Original file is located at
     https://colab.research.google.com/drive/1kd6g5MB-L5-uz4cCeeZAgaYi16y4JdPd
 """
 
+
+
+""""
+Adapted from https://github.com/antoniocastelofilho/marching_simplex/tree/master
+""""
+
+
+
 ######## Importe das bibliotecas ######
 
 import numpy as np
